@@ -28,7 +28,7 @@ public class Main {
 		System.out.println("Hello World, Yannis riecht gut oder so");
         System.out.println("Aber richtig");
 		System.out.println("Hello World, Yannis riecht gut oder so");
-        System.out.println("Aber richtig");
+        System.out.println("Aber richtig"");
 
     }
 }
