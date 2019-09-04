@@ -1,6 +1,6 @@
 package net.okaay.leeroy;
 
-public class Mainb {
+public class Main {
 
     public static void main(String... args) {
         System.out.println("Hello World, Yannis stinkt");
